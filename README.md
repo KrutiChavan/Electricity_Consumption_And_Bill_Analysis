@@ -64,8 +64,8 @@ Every change (adding, deleting or loading data, or changing the threshold) runs 
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/KrutiChavan/Electricity_Consumption_And_Bill_Analysis.git
+cd Electricity_Consumption_And_Bill_Analysis
 pip install -r requirements.txt
 ```
 
