@@ -136,5 +136,5 @@ A month is marked **UNUSUAL INCREASE** when its units change % is greater than o
 
 ## Author
 
-**Gayatri Vibhute**
+**Kruti Chavan**
 GitHub: KrutiChavan(https://github.com/KrutiChavan)
